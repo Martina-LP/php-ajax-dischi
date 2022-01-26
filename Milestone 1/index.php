@@ -127,7 +127,7 @@ $apiMusic = [
   }
 
   .image {
-    margin-bottom: 1rem;
+    margin-bottom: 16px;
   }
 
   .title {
