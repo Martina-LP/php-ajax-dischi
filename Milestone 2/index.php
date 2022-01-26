@@ -14,7 +14,7 @@
 </head>
 
 <body>
-  <header id="site-header" class="p-3">
+  <header class="p-3">
   <img class="logo" src="./assets/img/spotify_logo.svg" alt="Spotify Logo" />
   </header>
   <main>
